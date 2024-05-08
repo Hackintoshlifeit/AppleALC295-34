@@ -5596,6 +5596,24 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Lorys89 - Realtek ALC295/ALC3254 for all laptop Dell</string>
+					<key>CodecID</key>
+					<integer>283902613</integer>
+					<key>ConfigData</key>
+					<data>ASccMAEnHQEBJx6mAScfkAFHHBABRx0BAUceFwFHH5ABRwwCAZcc8AGXHREBlx6BAZcfAQIHHPACBx0AAgceAAIHHwACBQBFAgTWiQIXHCACFx0QAhceIQIXHwQCFwwC</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>34</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgGXByQCFwwC</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Unbelievable9 - Realtek ALC295/ALC3254 for Dell Latitude 5290</string>
 					<key>CodecID</key>
 					<integer>283902613</integer>
