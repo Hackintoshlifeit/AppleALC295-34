@@ -17,6 +17,8 @@
 	<key>PathMaps</key>
 	<array>
 		<dict>
+			<key>Comment</key>
+			<string>Lorys89 - Realtek ALC295/ALC3254 for all laptop Dell</string>
 			<key>PathMap</key>
 			<array>
 				<array>
