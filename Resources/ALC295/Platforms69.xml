@@ -48,7 +48,7 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>8</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>Amp</key>
@@ -59,7 +59,7 @@
 									<false/>
 								</dict>
 								<key>NodeID</key>
-								<integer>35</integer>
+								<integer>36</integer>
 							</dict>
 							<dict>
 								<key>Amp</key>
