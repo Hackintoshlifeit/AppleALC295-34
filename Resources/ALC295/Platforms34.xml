@@ -17,8 +17,6 @@
 	<key>PathMaps</key>
 	<array>
 		<dict>
-			<key>Comment</key>
-			<string>Lorys89 - Realtek ALC295/ALC3254 for all laptop Dell</string>
 			<key>PathMap</key>
 			<array>
 				<array>
@@ -44,6 +42,10 @@
 									</array>
 									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<true/>
+									<key>PublishVolume</key>
+									<true/>
 									<key>VolumeInputAmp</key>
 									<true/>
 								</dict>
@@ -55,15 +57,8 @@
 								<integer>36</integer>
 							</dict>
 							<dict>
-								<key>Amp</key>
-								<dict>
-									<key>MuteInputAmp</key>
-									<false/>
-									<key>VolumeInputAmp</key>
-									<true/>
-								</dict>
 								<key>Boost</key>
-								<integer>0</integer>
+								<integer>2</integer>
 								<key>NodeID</key>
 								<integer>18</integer>
 							</dict>
@@ -109,33 +104,25 @@
 									</array>
 									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<true/>
+									<key>PublishVolume</key>
+									<true/>
 									<key>VolumeInputAmp</key>
 									<true/>
 								</dict>
+								<key>MinimumSampleRate</key>
+								<integer>48000</integer>
 								<key>NodeID</key>
 								<integer>8</integer>
 							</dict>
 							<dict>
-								<key>Amp</key>
-								<dict>
-									<key>MuteInputAmp</key>
-									<true/>
-									<key>VolumeInputAmp</key>
-									<false/>
-								</dict>
 								<key>NodeID</key>
 								<integer>35</integer>
 							</dict>
 							<dict>
-								<key>Amp</key>
-								<dict>
-									<key>MuteInputAmp</key>
-									<false/>
-									<key>VolumeInputAmp</key>
-									<true/>
-								</dict>
 								<key>Boost</key>
-								<integer>3</integer>
+								<integer>2</integer>
 								<key>NodeID</key>
 								<integer>25</integer>
 							</dict>
@@ -148,9 +135,13 @@
 							<dict>
 								<key>Amp</key>
 								<dict>
-									<key>PublishMute</key>
+									<key>MuteInputAmp</key>
 									<false/>
+									<key>PublishMute</key>
+									<true/>
 									<key>PublishVolume</key>
+									<false/>
+									<key>VolumeInputAmp</key>
 									<false/>
 								</dict>
 								<key>NodeID</key>
@@ -174,10 +165,14 @@
 											<integer>2</integer>
 										</dict>
 									</array>
-									<key>PublishMute</key>
+									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<false/>
 									<key>PublishVolume</key>
 									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>2</integer>
@@ -189,9 +184,13 @@
 							<dict>
 								<key>Amp</key>
 								<dict>
-									<key>PublishMute</key>
+									<key>MuteInputAmp</key>
 									<false/>
+									<key>PublishMute</key>
+									<true/>
 									<key>PublishVolume</key>
+									<false/>
+									<key>VolumeInputAmp</key>
 									<false/>
 								</dict>
 								<key>NodeID</key>
@@ -215,10 +214,14 @@
 											<integer>2</integer>
 										</dict>
 									</array>
-									<key>PublishMute</key>
+									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<false/>
 									<key>PublishVolume</key>
 									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>3</integer>
@@ -228,7 +231,7 @@
 				</array>
 			</array>
 			<key>PathMapID</key>
-			<integer>34</integer>
+			<integer>69</integer>
 		</dict>
 	</array>
 </dict>
