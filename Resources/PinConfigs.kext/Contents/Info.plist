@@ -54,13 +54,13 @@
 					<key>CodecID</key>
 					<integer>283902613</integer>
 					<key>ConfigData</key>
-					<data>ASccMAEnHQEBJx6mAScfkAFHHBABRx0BAUceFwFHH5ABRwwCAbcc8AG3HRABtx6LAbcfBAIXHCACFx0QAhceKwIXHwQCFwwCAgUARQIEUok=</data>
+					<data>ASccIAEnHQEBJx6mAScfkAFHHCABRx0BAUceFwFHH5ABRwwCAZcHJAGXHEABlx0RAZcegQGXHwACFxzwAhcdEAIXHiECFx8BAhcMAgIFAEUCBFKJ</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>33</integer>
 					<key>WakeConfigData</key>
-					<data>AUcMAgIXDAIBlwckAgUARQIEUok=</data>
+					<data>AUcMAgGXByQCFwwC</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
