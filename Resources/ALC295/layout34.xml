@@ -21,8 +21,8 @@
 			</dict>
 			<key>Inputs</key>
 			<array>
-				<string>Mic</string>
 				<string>ExtMic</string>
+				<string>Mic</string>
 			</array>
 			<key>IntSpeaker</key>
 			<dict>
