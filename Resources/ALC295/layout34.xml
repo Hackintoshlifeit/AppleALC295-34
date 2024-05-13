@@ -22,7 +22,7 @@
 			<key>Inputs</key>
 			<array>
 				<string>Mic</string>
-				<string>LineIn</string>
+				<string>ExtMic</string>
 			</array>
 			<key>IntSpeaker</key>
 			<dict>
@@ -785,7 +785,7 @@
 					</dict>
 				</dict>
 			</dict>
-			<key>LineIn</key>
+			<key>ExtMic</key>
 			<dict>
 				<key>MuteGPIO</key>
 				<integer>1342242841</integer>
