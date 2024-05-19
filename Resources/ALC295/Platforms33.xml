@@ -64,24 +64,6 @@
 							</dict>
 						</array>
 					</array>
-				</array>
-				<array>
-					<array>
-						<array>
-							<dict>
-								<key>NodeID</key>
-								<integer>8</integer>
-							</dict>
-							<dict>
-								<key>NodeID</key>
-								<integer>35</integer>
-							</dict>
-							<dict>
-								<key>NodeID</key>
-								<integer>19</integer>
-							</dict>
-						</array>
-					</array>
 					<array>
 						<array>
 							<dict>
@@ -124,7 +106,7 @@
 								<key>Boost</key>
 								<integer>3</integer>
 								<key>NodeID</key>
-								<integer>25</integer>
+								<integer>27</integer>
 							</dict>
 						</array>
 					</array>
