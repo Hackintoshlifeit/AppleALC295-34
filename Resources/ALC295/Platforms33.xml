@@ -17,8 +17,6 @@
 	<key>PathMaps</key>
 	<array>
 		<dict>
-			<key>Comment</key>
-			<string>Lorys89 - Realtek ALC295/ALC3254 for Dell Latitude 7210 2-in-1</string>
 			<key>PathMap</key>
 			<array>
 				<array>
@@ -44,6 +42,10 @@
 									</array>
 									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<true/>
+									<key>PublishVolume</key>
+									<true/>
 									<key>VolumeInputAmp</key>
 									<true/>
 								</dict>
@@ -67,6 +69,22 @@
 					<array>
 						<array>
 							<dict>
+								<key>NodeID</key>
+								<integer>8</integer>
+							</dict>
+							<dict>
+								<key>NodeID</key>
+								<integer>35</integer>
+							</dict>
+							<dict>
+								<key>NodeID</key>
+								<integer>19</integer>
+							</dict>
+						</array>
+					</array>
+					<array>
+						<array>
+							<dict>
 								<key>Amp</key>
 								<dict>
 									<key>Channels</key>
@@ -86,9 +104,15 @@
 									</array>
 									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<true/>
+									<key>PublishVolume</key>
+									<true/>
 									<key>VolumeInputAmp</key>
 									<true/>
 								</dict>
+								<key>MinimumSampleRate</key>
+								<integer>48000</integer>
 								<key>NodeID</key>
 								<integer>8</integer>
 							</dict>
@@ -111,10 +135,14 @@
 							<dict>
 								<key>Amp</key>
 								<dict>
+									<key>MuteInputAmp</key>
+									<false/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
-									<true/>
+									<false/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>20</integer>
@@ -137,10 +165,14 @@
 											<integer>2</integer>
 										</dict>
 									</array>
-									<key>PublishMute</key>
+									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<false/>
 									<key>PublishVolume</key>
 									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>2</integer>
@@ -152,10 +184,14 @@
 							<dict>
 								<key>Amp</key>
 								<dict>
+									<key>MuteInputAmp</key>
+									<false/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
-									<true/>
+									<false/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>33</integer>
@@ -178,10 +214,14 @@
 											<integer>2</integer>
 										</dict>
 									</array>
-									<key>PublishMute</key>
+									<key>MuteInputAmp</key>
 									<true/>
+									<key>PublishMute</key>
+									<false/>
 									<key>PublishVolume</key>
 									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>3</integer>
