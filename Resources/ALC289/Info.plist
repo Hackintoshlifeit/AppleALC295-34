@@ -14,22 +14,22 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>ALC289 for Dell XPS 2in1 7390 Vorshim</string>
+				<string>ALC289 for Dell XPS 7390 ICL 2in1 By Lorys89</string>
 				<key>Id</key>
-				<integer>69</integer>
+				<integer>68</integer>
 				<key>Path</key>
-				<string>layout69.xml.zlib</string>
+				<string>layout68.xml.zlib</string>
 			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>ALC289 for Dell XPS 2in1 7390 Vorshim</string>
+				<string>ALC289 for Dell XPS 7390 ICL 2in1 By Lorys89</string>
 				<key>Id</key>
-				<integer>69</integer>
+				<integer>68</integer>
 				<key>Path</key>
-				<string>Platforms69.xml.zlib</string>
+				<string>Platforms68.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
