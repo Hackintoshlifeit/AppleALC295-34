@@ -14,22 +14,22 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>ALC236 for Dell ICL for Lorys89 by Vorshim</string>
+				<string>ALC236 for Dell Vostro 5401 for Lorys89</string>
 				<key>Id</key>
-				<integer>69</integer>
+				<integer>68</integer>
 				<key>Path</key>
-				<string>layout69.xml.zlib</string>
+				<string>layout68.xml.zlib</string>
 			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>ALC236 for Dell ICL for Lorys89 by Vorshim</string>
+				<string>ALC236 for Dell Vostro 5401 for Lorys89</string>
 				<key>Id</key>
-				<integer>69</integer>
+				<integer>68</integer>
 				<key>Path</key>
-				<string>Platforms69.xml.zlib</string>
+				<string>Platforms68.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
