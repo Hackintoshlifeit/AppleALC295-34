@@ -22,6 +22,7 @@
 			<key>Inputs</key>
 			<array>
 				<string>LineIn</string>
+				<string>Mic</string>
 			</array>
 			<key>IntSpeaker</key>
 			<dict>
