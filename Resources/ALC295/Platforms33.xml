@@ -17,9 +17,9 @@
 	<key>PathMaps</key>
 	<array>
 		<dict>
-			<key>Comment</key>
-			<string>Lorys89 - Realtek ALC295/ALC3254 for Dell Latitude 7210 2-in-1</string>
-			<key>PathMap</key>
+            <key>Comment</key>
+            <string>Lorys89 - Realtek ALC295/ALC3254 for Dell Latitude 7210 2-in-1</string>
+            <key>PathMap</key>
 			<array>
 				<array>
 					<array>
@@ -52,17 +52,17 @@
 									<true/>
 								</dict>
 								<key>NodeID</key>
-								<integer>8</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>NodeID</key>
-								<integer>35</integer>
+								<integer>36</integer>
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>3</integer>
+								<integer>0</integer>
 								<key>NodeID</key>
-								<integer>25</integer>
+								<integer>18</integer>
 							</dict>
 						</array>
 					</array>
@@ -95,6 +95,8 @@
 									<key>VolumeInputAmp</key>
 									<true/>
 								</dict>
+								<key>MinimumSampleRate</key>
+								<integer>48000</integer>
 								<key>NodeID</key>
 								<integer>8</integer>
 							</dict>
@@ -104,9 +106,9 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>0</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
-								<integer>18</integer>
+								<integer>25</integer>
 							</dict>
 						</array>
 					</array>
